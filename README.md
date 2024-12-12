@@ -1,7 +1,7 @@
 # Göbekli Tepe
 ##### Code Institute / User-Centric Front-End Development
 
-You can check the website here [Göbekli Tepe](https://devancadman.github.io/MP1-Gobekli-Tepe-Website/index.html)
+You can check the website here [Göbekli Tepe](https://codemasterdevan.github.io/MP1-Gobekli-Tepe-Website/index.html)
 
 ![ScreenShot](./documentation/documentation-images/Am-I-Responsive-Gobekli-Tepe-Website.png)
 
